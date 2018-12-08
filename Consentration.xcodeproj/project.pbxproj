@@ -54,14 +54,22 @@
 		2A9FD0D421BA9E8000CBE93C /* Consentration */ = {
 			isa = PBXGroup;
 			children = (
-				2A9FD0D521BA9E8000CBE93C /* AppDelegate.swift */,
-				2A9FD0D721BA9E8000CBE93C /* ViewController.swift */,
 				2A9FD0D921BA9E8000CBE93C /* Main.storyboard */,
-				2A9FD0DC21BA9E8300CBE93C /* Assets.xcassets */,
-				2A9FD0DE21BA9E8300CBE93C /* LaunchScreen.storyboard */,
+				2A9FD0D721BA9E8000CBE93C /* ViewController.swift */,
+				2A9FD0E721BAA82C00CBE93C /* Supporting Files */,
 				2A9FD0E121BA9E8300CBE93C /* Info.plist */,
 			);
 			path = Consentration;
+			sourceTree = "<group>";
+		};
+		2A9FD0E721BAA82C00CBE93C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				2A9FD0D521BA9E8000CBE93C /* AppDelegate.swift */,
+				2A9FD0DC21BA9E8300CBE93C /* Assets.xcassets */,
+				2A9FD0DE21BA9E8300CBE93C /* LaunchScreen.storyboard */,
+			);
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
